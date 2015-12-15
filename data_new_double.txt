@@ -1,0 +1,578 @@
+2009
+avg QB variance: 46
+avg QB score: 17
+Philip Rivers2009 avg: 17 sd: 4 var: 19 games: 15 range: 13-21 quarts: 13-20
+Kyle Orton2009 avg: 13 sd: 5 var: 26 games: 15 range: 8-18 quarts: 9-17
+Peyton Manning2009 avg: 18 sd: 5 var: 31 games: 15 range: 12-24 quarts: 14-21
+Eli Manning2009 avg: 15 sd: 6 var: 40 games: 15 range: 8-21 quarts: 10-20
+Brett Favre2009 avg: 16 sd: 6 var: 43 games: 15 range: 10-23 quarts: 10-22
+Ben Roethlisberger2009 avg: 17 sd: 6 var: 43 games: 14 range: 11-24 quarts: 12-21
+Tony Romo2009 avg: 17 sd: 6 var: 43 games: 15 range: 10-23 quarts: 12-20
+Matt Schaub2009 avg: 17 sd: 7 var: 49 games: 15 range: 10-24 quarts: 12-20
+Kurt Warner2009 avg: 15 sd: 7 var: 50 games: 14 range: 8-22 quarts: 11-19
+Aaron Rodgers2009 avg: 21 sd: 7 var: 53 games: 15 range: 14-28 quarts: 18-24
+Tom Brady2009 avg: 17 sd: 8 var: 74 games: 15 range: 8-26 quarts: 11-21
+Drew Brees2009 avg: 19 sd: 9 var: 81 games: 15 range: 10-28 quarts: 13-23
+-------------------------------------------------
+avg RB variance: 56
+avg RB score: 9
+Danny Woodhead2009 avg: 2 sd: 1 var: 2 games: 6 range: 0-3 quarts: 1-2
+Rashad Jennings2009 avg: 2 sd: 2 var: 8 games: 14 range: 0-5 quarts: 0-3
+Darren McFadden2009 avg: 5 sd: 3 var: 13 games: 11 range: 1-9 quarts: 2-7
+Donald Brown2009 avg: 6 sd: 4 var: 16 games: 10 range: 2-10 quarts: 3-10
+Marshawn Lynch2009 avg: 6 sd: 4 var: 19 games: 12 range: 1-10 quarts: 2-9
+Tim Hightower2009 avg: 9 sd: 4 var: 22 games: 15 range: 5-14 quarts: 6-13
+LeSean McCoy2009 avg: 7 sd: 5 var: 25 games: 15 range: 2-13 quarts: 3-12
+Matt Forte2009 avg: 9 sd: 6 var: 41 games: 15 range: 3-16 quarts: 5-12
+Reggie Bush2009 avg: 9 sd: 6 var: 43 games: 13 range: 2-15 quarts: 4-9
+Fred Jackson2009 avg: 9 sd: 6 var: 47 games: 15 range: 2-16 quarts: 4-12
+Arian Foster2009 avg: 6 sd: 6 var: 48 games: 4 range: 0-13 quarts: 0-10
+Pierre Thomas2009 avg: 11 sd: 7 var: 53 games: 14 range: 4-18 quarts: 7-15
+Justin Forsett2009 avg: 8 sd: 7 var: 59 games: 15 range: 0-15 quarts: 1-9
+Jamaal Charles2009 avg: 10 sd: 8 var: 64 games: 14 range: 2-18 quarts: 4-17
+Darren Sproles2009 avg: 8 sd: 8 var: 64 games: 15 range: 0-16 quarts: 2-14
+Ahmad Bradshaw2009 avg: 9 sd: 8 var: 64 games: 14 range: 1-17 quarts: 4-11
+DeAngelo Williams2009 avg: 13 sd: 8 var: 73 games: 13 range: 5-22 quarts: 7-16
+Jonathan Stewart2009 avg: 12 sd: 9 var: 88 games: 15 range: 2-21 quarts: 3-20
+Frank Gore2009 avg: 16 sd: 9 var: 94 games: 13 range: 6-26 quarts: 11-20
+Adrian Peterson2009 avg: 8 sd: 11 var: 130 games: 16 range: -3-19 quarts: 0-15
+Chris Johnson2009 avg: 15 sd: 14 var: 205 games: 16 range: 1-30 quarts: 0-26
+-------------------------------------------------
+avg WR variance: 40
+avg WR score: 9
+Malcom Floyd2009 avg: 4 sd: 2 var: 4 games: 15 range: 2-6 quarts: 3-6
+Dwayne Bowe2009 avg: 8 sd: 3 var: 13 games: 10 range: 4-12 quarts: 6-10
+Michael Crabtree2009 avg: 6 sd: 3 var: 15 games: 10 range: 2-10 quarts: 4-6
+Pierre Garcon2009 avg: 7 sd: 4 var: 23 games: 14 range: 2-12 quarts: 2-11
+Kenny Britt2009 avg: 6 sd: 5 var: 25 games: 14 range: 1-11 quarts: 1-10
+Jason Avant2009 avg: 5 sd: 5 var: 25 games: 15 range: 0-10 quarts: 1-9
+Jerricho Cotchery2009 avg: 7 sd: 5 var: 26 games: 13 range: 2-12 quarts: 4-9
+Hakeem Nicks2009 avg: 9 sd: 5 var: 26 games: 13 range: 4-14 quarts: 5-12
+Devin Hester2009 avg: 7 sd: 5 var: 28 games: 12 range: 1-12 quarts: 2-10
+Greg Jennings2009 avg: 9 sd: 5 var: 35 games: 15 range: 3-15 quarts: 5-13
+Steve Smith2009 avg: 10 sd: 5 var: 35 games: 16 range: 4-15 quarts: 6-12
+Anquan Boldin2009 avg: 9 sd: 6 var: 38 games: 14 range: 3-15 quarts: 5-13
+Percy Harvin2009 avg: 9 sd: 6 var: 39 games: 14 range: 2-15 quarts: 4-14
+Mike Wallace2009 avg: 7 sd: 6 var: 40 games: 15 range: 0-13 quarts: 1-11
+Calvin Johnson2009 avg: 9 sd: 6 var: 41 games: 13 range: 2-15 quarts: 3-13
+Larry Fitzgerald2009 avg: 12 sd: 6 var: 44 games: 15 range: 6-19 quarts: 7-16
+Marques Colston2009 avg: 11 sd: 6 var: 46 games: 15 range: 4-17 quarts: 6-14
+Wes Welker2009 avg: 12 sd: 6 var: 47 games: 13 range: 5-19 quarts: 8-16
+Vincent Jackson2009 avg: 12 sd: 7 var: 49 games: 15 range: 4-19 quarts: 5-18
+Jeremy Maclin2009 avg: 8 sd: 7 var: 50 games: 12 range: 1-15 quarts: 4-9
+DeSean Jackson2009 avg: 13 sd: 8 var: 66 games: 14 range: 5-21 quarts: 9-21
+Andre Johnson2009 avg: 14 sd: 8 var: 75 games: 15 range: 5-22 quarts: 6-18
+Roddy White2009 avg: 11 sd: 9 var: 85 games: 15 range: 2-21 quarts: 4-15
+Brandon Marshall2009 avg: 12 sd: 9 var: 87 games: 15 range: 3-21 quarts: 4-16
+avg TE variance: 32
+avg TE score: 7
+Jason Witten2009 avg: 6 sd: 3 var: 12 games: 15 range: 3-10 quarts: 4-9
+Anthony Fasano2009 avg: 3 sd: 4 var: 17 games: 13 range: -1-7 quarts: 0-6
+Marcedes Lewis2009 avg: 4 sd: 4 var: 18 games: 15 range: 0-8 quarts: 1-5
+Daniel Fells2009 avg: 3 sd: 4 var: 22 games: 14 range: -1-8 quarts: 0-3
+Brandon Pettigrew2009 avg: 4 sd: 4 var: 23 games: 10 range: 0-9 quarts: 1-5
+Brent Celek2009 avg: 9 sd: 4 var: 24 games: 15 range: 4-14 quarts: 6-12
+Benjamin Watson2009 avg: 6 sd: 5 var: 33 games: 12 range: 0-11 quarts: 2-8
+Heath Miller2009 avg: 7 sd: 6 var: 38 games: 15 range: 0-13 quarts: 2-12
+Owen Daniels2009 avg: 10 sd: 6 var: 44 games: 8 range: 4-17 quarts: 4-15
+Antonio Gates2009 avg: 10 sd: 6 var: 46 games: 15 range: 4-17 quarts: 6-12
+Greg Olsen2009 avg: 6 sd: 6 var: 48 games: 15 range: 0-13 quarts: 1-9
+Vernon Davis2009 avg: 11 sd: 7 var: 61 games: 15 range: 3-19 quarts: 4-15
+2010
+avg QB variance: 41
+avg QB score: 16
+Drew Brees2010 avg: 17 sd: 3 var: 15 games: 15 range: 13-21 quarts: 14-19
+Matt Ryan2010 avg: 15 sd: 4 var: 22 games: 15 range: 10-20 quarts: 11-19
+Philip Rivers2010 avg: 17 sd: 5 var: 25 games: 15 range: 12-22 quarts: 13-22
+Joe Flacco2010 avg: 15 sd: 5 var: 26 games: 15 range: 10-20 quarts: 13-19
+Sam Bradford2010 avg: 12 sd: 5 var: 27 games: 15 range: 7-17 quarts: 9-15
+Peyton Manning2010 avg: 17 sd: 6 var: 38 games: 15 range: 11-24 quarts: 13-21
+Eli Manning2010 avg: 14 sd: 6 var: 46 games: 15 range: 7-21 quarts: 8-20
+Carson Palmer2010 avg: 14 sd: 6 var: 47 games: 15 range: 7-21 quarts: 8-17
+Matt Schaub2010 avg: 15 sd: 7 var: 49 games: 15 range: 8-22 quarts: 9-19
+Tom Brady2010 avg: 18 sd: 7 var: 51 games: 15 range: 11-26 quarts: 12-22
+Kyle Orton2010 avg: 16 sd: 7 var: 63 games: 13 range: 8-24 quarts: 14-20
+Aaron Rodgers2010 avg: 21 sd: 8 var: 79 games: 14 range: 12-30 quarts: 16-27
+-------------------------------------------------
+avg RB variance: 52
+avg RB score: 10
+C.J. Spiller2010 avg: 3 sd: 2 var: 5 games: 13 range: 1-5 quarts: 1-3
+Toby Gerhart2010 avg: 3 sd: 4 var: 16 games: 14 range: 0-7 quarts: 0-4
+DeAngelo Williams2010 avg: 7 sd: 4 var: 17 games: 6 range: 3-12 quarts: 5-7
+Ryan Mathews2010 avg: 8 sd: 4 var: 20 games: 11 range: 3-12 quarts: 4-13
+Justin Forsett2010 avg: 5 sd: 4 var: 21 games: 15 range: 1-10 quarts: 1-7
+Danny Woodhead2010 avg: 9 sd: 4 var: 24 games: 14 range: 4-14 quarts: 5-11
+Jonathan Stewart2010 avg: 7 sd: 4 var: 24 games: 13 range: 2-12 quarts: 3-11
+Darren Sproles2010 avg: 5 sd: 5 var: 25 games: 15 range: 0-10 quarts: 0-8
+Rashad Jennings2010 avg: 6 sd: 5 var: 28 games: 11 range: 1-12 quarts: 2-10
+Donald Brown2010 avg: 6 sd: 5 var: 35 games: 12 range: 0-12 quarts: 2-9
+Jamaal Charles2010 avg: 15 sd: 6 var: 38 games: 15 range: 9-21 quarts: 10-20
+Ahmad Bradshaw2010 avg: 13 sd: 6 var: 41 games: 15 range: 6-19 quarts: 8-17
+LeGarrette Blount2010 avg: 11 sd: 7 var: 49 games: 12 range: 4-18 quarts: 5-16
+Frank Gore2010 avg: 14 sd: 7 var: 51 games: 11 range: 7-21 quarts: 9-17
+Tim Hightower2010 avg: 7 sd: 7 var: 54 games: 15 range: 0-14 quarts: 2-10
+LeSean McCoy2010 avg: 15 sd: 7 var: 55 games: 15 range: 7-22 quarts: 9-18
+Marshawn Lynch2010 avg: 7 sd: 7 var: 59 games: 15 range: 0-15 quarts: 2-10
+Chris Ivory2010 avg: 9 sd: 8 var: 68 games: 11 range: 0-17 quarts: 4-17
+Fred Jackson2010 avg: 10 sd: 8 var: 75 games: 15 range: 1-18 quarts: 4-11
+Matt Forte2010 avg: 13 sd: 9 var: 84 games: 15 range: 4-22 quarts: 6-17
+Adrian Peterson2010 avg: 17 sd: 9 var: 86 games: 14 range: 8-27 quarts: 10-25
+Chris Johnson2010 avg: 10 sd: 9 var: 92 games: 16 range: 0-20 quarts: 0-19
+Arian Foster2010 avg: 20 sd: 10 var: 118 games: 15 range: 9-31 quarts: 12-25
+Darren McFadden2010 avg: 17 sd: 12 var: 159 games: 13 range: 5-30 quarts: 9-19
+-------------------------------------------------
+avg WR variance: 59
+avg WR score: 10
+Danny Amendola2010 avg: 6 sd: 3 var: 11 games: 15 range: 2-9 quarts: 4-8
+Larry Fitzgerald2010 avg: 9 sd: 4 var: 23 games: 15 range: 4-13 quarts: 5-11
+Nate Washington2010 avg: 7 sd: 5 var: 29 games: 15 range: 1-12 quarts: 3-10
+Brandon Marshall2010 avg: 8 sd: 5 var: 32 games: 13 range: 2-14 quarts: 5-10
+James Jones2010 avg: 6 sd: 6 var: 36 games: 15 range: 0-12 quarts: 1-10
+Michael Crabtree2010 avg: 7 sd: 6 var: 37 games: 15 range: 1-13 quarts: 2-12
+Pierre Garcon2010 avg: 8 sd: 6 var: 37 games: 13 range: 2-14 quarts: 4-10
+Percy Harvin2010 avg: 10 sd: 6 var: 40 games: 13 range: 3-16 quarts: 3-14
+Wes Welker2010 avg: 8 sd: 6 var: 40 games: 15 range: 2-15 quarts: 3-12
+Marques Colston2010 avg: 10 sd: 6 var: 42 games: 15 range: 3-16 quarts: 5-14
+Lance Moore2010 avg: 9 sd: 6 var: 45 games: 14 range: 2-15 quarts: 4-12
+Roddy White2010 avg: 12 sd: 7 var: 56 games: 15 range: 5-20 quarts: 8-14
+Jeremy Maclin2010 avg: 11 sd: 7 var: 56 games: 15 range: 3-18 quarts: 6-14
+Mike Wallace2010 avg: 12 sd: 7 var: 61 games: 15 range: 4-19 quarts: 5-17
+Andre Johnson2010 avg: 13 sd: 7 var: 61 games: 13 range: 5-21 quarts: 6-20
+Calvin Johnson2010 avg: 13 sd: 8 var: 67 games: 15 range: 5-22 quarts: 5-20
+Hakeem Nicks2010 avg: 14 sd: 8 var: 69 games: 13 range: 5-22 quarts: 8-19
+Steve Johnson2010 avg: 11 sd: 8 var: 73 games: 15 range: 2-19 quarts: 4-14
+Malcom Floyd2010 avg: 10 sd: 8 var: 73 games: 10 range: 2-19 quarts: 4-16
+Greg Jennings2010 avg: 13 sd: 8 var: 73 games: 15 range: 4-21 quarts: 8-15
+Anquan Boldin2010 avg: 8 sd: 9 var: 83 games: 15 range: 0-17 quarts: 2-12
+DeSean Jackson2010 avg: 11 sd: 9 var: 86 games: 14 range: 2-20 quarts: 3-20
+Kenny Britt2010 avg: 12 sd: 11 var: 134 games: 10 range: 0-23 quarts: 5-14
+Dwayne Bowe2010 avg: 14 sd: 11 var: 142 games: 15 range: 2-26 quarts: 3-23
+avg TE variance: 29
+avg TE score: 7
+Tony Moeaki2010 avg: 5 sd: 2 var: 7 games: 14 range: 2-8 quarts: 3-6
+Heath Miller2010 avg: 3 sd: 2 var: 8 games: 13 range: 0-6 quarts: 2-4
+Brandon Pettigrew2010 avg: 6 sd: 3 var: 13 games: 15 range: 2-10 quarts: 4-8
+Anthony Fasano2010 avg: 5 sd: 4 var: 19 games: 15 range: 0-9 quarts: 2-7
+Brent Celek2010 avg: 5 sd: 4 var: 22 games: 14 range: 0-10 quarts: 1-9
+Benjamin Watson2010 avg: 6 sd: 5 var: 26 games: 15 range: 0-11 quarts: 2-8
+Vernon Davis2010 avg: 8 sd: 5 var: 35 games: 15 range: 2-14 quarts: 2-12
+Jacob Tamme2010 avg: 7 sd: 6 var: 36 games: 12 range: 0-13 quarts: 2-13
+Marcedes Lewis2010 avg: 8 sd: 6 var: 36 games: 15 range: 2-14 quarts: 3-13
+Jason Witten2010 avg: 9 sd: 6 var: 40 games: 15 range: 3-16 quarts: 4-14
+Antonio Gates2010 avg: 14 sd: 7 var: 53 games: 10 range: 7-22 quarts: 12-18
+Rob Gronkowski2010 avg: 7 sd: 7 var: 58 games: 15 range: 0-14 quarts: 1-9
+2011
+avg QB variance: 43
+avg QB score: 18
+Philip Rivers2011 avg: 15 sd: 5 var: 28 games: 15 range: 10-20 quarts: 11-18
+Matt Ryan2011 avg: 17 sd: 5 var: 29 games: 15 range: 12-23 quarts: 14-20
+Eli Manning2011 avg: 16 sd: 5 var: 32 games: 15 range: 11-22 quarts: 12-21
+Joe Flacco2011 avg: 12 sd: 6 var: 39 games: 15 range: 6-19 quarts: 9-15
+Tom Brady2011 avg: 23 sd: 6 var: 40 games: 15 range: 16-29 quarts: 16-28
+Matthew Stafford2011 avg: 20 sd: 6 var: 41 games: 15 range: 13-26 quarts: 15-25
+Ben Roethlisberger2011 avg: 14 sd: 6 var: 41 games: 14 range: 8-21 quarts: 10-17
+Ryan Fitzpatrick2011 avg: 13 sd: 6 var: 42 games: 15 range: 7-20 quarts: 8-16
+Aaron Rodgers2011 avg: 26 sd: 7 var: 50 games: 15 range: 19-33 quarts: 22-29
+Tony Romo2011 avg: 17 sd: 7 var: 52 games: 15 range: 10-24 quarts: 13-22
+Drew Brees2011 avg: 23 sd: 7 var: 56 games: 15 range: 16-31 quarts: 19-28
+Cam Newton2011 avg: 24 sd: 7 var: 63 games: 15 range: 16-32 quarts: 19-29
+-------------------------------------------------
+avg RB variance: 54
+avg RB score: 11
+James Starks2011 avg: 6 sd: 4 var: 17 games: 13 range: 2-10 quarts: 1-9
+Dexter McCluster2011 avg: 5 sd: 4 var: 18 games: 15 range: 0-9 quarts: 2-5
+Jonathan Stewart2011 avg: 9 sd: 4 var: 19 games: 15 range: 4-13 quarts: 5-12
+Pierre Thomas2011 avg: 8 sd: 5 var: 28 games: 15 range: 3-14 quarts: 4-12
+Darren Sproles2011 avg: 12 sd: 5 var: 33 games: 15 range: 6-17 quarts: 8-15
+Donald Brown2011 avg: 9 sd: 6 var: 36 games: 11 range: 3-15 quarts: 4-12
+Frank Gore2011 avg: 12 sd: 6 var: 42 games: 15 range: 5-18 quarts: 7-17
+Toby Gerhart2011 avg: 6 sd: 6 var: 46 games: 14 range: 0-13 quarts: 0-12
+Reggie Bush2011 avg: 12 sd: 6 var: 46 games: 15 range: 5-19 quarts: 7-16
+DeAngelo Williams2011 avg: 9 sd: 6 var: 47 games: 15 range: 2-16 quarts: 3-14
+Roy Helu2011 avg: 7 sd: 6 var: 48 games: 14 range: 0-14 quarts: 2-12
+Ryan Mathews2011 avg: 13 sd: 7 var: 50 games: 14 range: 6-20 quarts: 7-17
+LeGarrette Blount2011 avg: 9 sd: 7 var: 50 games: 13 range: 2-16 quarts: 2-13
+Fred Jackson2011 avg: 17 sd: 7 var: 53 games: 10 range: 10-24 quarts: 10-23
+LeSean McCoy2011 avg: 20 sd: 7 var: 57 games: 15 range: 12-27 quarts: 14-26
+Marshawn Lynch2011 avg: 15 sd: 7 var: 57 games: 14 range: 8-23 quarts: 8-20
+Matt Forte2011 avg: 14 sd: 7 var: 61 games: 12 range: 6-22 quarts: 8-18
+Chris Johnson2011 avg: 10 sd: 8 var: 67 games: 15 range: 1-18 quarts: 4-12
+Ahmad Bradshaw2011 avg: 13 sd: 8 var: 73 games: 11 range: 4-21 quarts: 8-17
+C.J. Spiller2011 avg: 7 sd: 8 var: 75 games: 15 range: -1-15 quarts: 1-8
+Adrian Peterson2011 avg: 16 sd: 9 var: 82 games: 12 range: 7-25 quarts: 10-25
+DeMarco Murray2011 avg: 9 sd: 9 var: 92 games: 13 range: 0-18 quarts: 2-12
+Darren McFadden2011 avg: 15 sd: 9 var: 98 games: 7 range: 5-25 quarts: 9-21
+Arian Foster2011 avg: 20 sd: 10 var: 108 games: 13 range: 9-30 quarts: 13-23
+-------------------------------------------------
+avg WR variance: 52
+avg WR score: 10
+A.J. Green2011 avg: 11 sd: 4 var: 19 games: 14 range: 6-15 quarts: 8-13
+Dez Bryant2011 avg: 10 sd: 4 var: 23 games: 14 range: 5-15 quarts: 6-14
+Steve Johnson2011 avg: 9 sd: 4 var: 24 games: 15 range: 4-14 quarts: 5-12
+Antonio Brown2011 avg: 7 sd: 4 var: 24 games: 15 range: 3-12 quarts: 5-9
+Mike Wallace2011 avg: 11 sd: 5 var: 31 games: 15 range: 6-17 quarts: 7-16
+DeSean Jackson2011 avg: 7 sd: 5 var: 32 games: 14 range: 2-13 quarts: 3-12
+Greg Jennings2011 avg: 12 sd: 5 var: 32 games: 13 range: 6-17 quarts: 10-15
+Darrius Heyward-Bey2011 avg: 7 sd: 5 var: 33 games: 14 range: 1-13 quarts: 4-9
+Brandon Marshall2011 avg: 10 sd: 5 var: 33 games: 15 range: 4-16 quarts: 5-14
+Roddy White2011 avg: 11 sd: 5 var: 34 games: 15 range: 6-17 quarts: 7-14
+Hakeem Nicks2011 avg: 10 sd: 6 var: 37 games: 14 range: 4-16 quarts: 7-13
+Dwayne Bowe2011 avg: 9 sd: 6 var: 40 games: 15 range: 3-15 quarts: 5-12
+Larry Fitzgerald2011 avg: 12 sd: 6 var: 45 games: 15 range: 5-18 quarts: 6-15
+Marques Colston2011 avg: 10 sd: 7 var: 51 games: 13 range: 3-18 quarts: 6-15
+Nate Washington2011 avg: 9 sd: 7 var: 51 games: 15 range: 2-16 quarts: 4-14
+Jordy Nelson2011 avg: 12 sd: 7 var: 62 games: 15 range: 5-20 quarts: 4-17
+Percy Harvin2011 avg: 10 sd: 7 var: 63 games: 15 range: 2-18 quarts: 4-16
+Steve Smith2011 avg: 11 sd: 8 var: 64 games: 15 range: 3-19 quarts: 3-15
+Calvin Johnson2011 avg: 16 sd: 8 var: 66 games: 15 range: 8-24 quarts: 10-21
+Victor Cruz2011 avg: 12 sd: 9 var: 82 games: 15 range: 3-21 quarts: 6-20
+Julio Jones2011 avg: 11 sd: 9 var: 84 games: 12 range: 1-20 quarts: 3-16
+Pierre Garcon2011 avg: 8 sd: 9 var: 94 games: 15 range: 0-18 quarts: 3-7
+Wes Welker2011 avg: 14 sd: 9 var: 98 games: 15 range: 4-24 quarts: 6-19
+Vincent Jackson2011 avg: 10 sd: 10 var: 113 games: 15 range: 0-21 quarts: 3-16
+avg TE variance: 31
+avg TE score: 7
+Heath Miller2011 avg: 4 sd: 4 var: 16 games: 15 range: 0-8 quarts: 1-7
+Owen Daniels2011 avg: 5 sd: 4 var: 19 games: 15 range: 1-10 quarts: 3-9
+Brandon Pettigrew2011 avg: 6 sd: 4 var: 21 games: 15 range: 2-11 quarts: 2-11
+Jermaine Gresham2011 avg: 7 sd: 4 var: 21 games: 13 range: 2-11 quarts: 3-12
+Jason Witten2011 avg: 8 sd: 4 var: 23 games: 15 range: 3-12 quarts: 4-11
+Greg Olsen2011 avg: 5 sd: 4 var: 23 games: 15 range: 0-10 quarts: 2-10
+Jimmy Graham2011 avg: 12 sd: 5 var: 27 games: 15 range: 7-17 quarts: 8-16
+Vernon Davis2011 avg: 7 sd: 5 var: 27 games: 15 range: 1-12 quarts: 2-11
+Antonio Gates2011 avg: 9 sd: 5 var: 33 games: 12 range: 3-14 quarts: 5-12
+Brent Celek2011 avg: 6 sd: 6 var: 38 games: 15 range: 0-12 quarts: 1-9
+Jared Cook2011 avg: 5 sd: 6 var: 40 games: 15 range: 0-12 quarts: 1-7
+Rob Gronkowski2011 avg: 15 sd: 9 var: 85 games: 15 range: 6-24 quarts: 7-24
+2012
+avg QB variance: 51
+avg QB score: 17
+Peyton Manning2012 avg: 19 sd: 4 var: 24 games: 15 range: 14-23 quarts: 15-22
+Carson Palmer2012 avg: 14 sd: 6 var: 40 games: 15 range: 8-21 quarts: 11-18
+Tom Brady2012 avg: 21 sd: 6 var: 40 games: 15 range: 15-27 quarts: 17-27
+Josh Freeman2012 avg: 15 sd: 6 var: 45 games: 15 range: 8-22 quarts: 11-19
+Matthew Stafford2012 avg: 17 sd: 6 var: 48 games: 15 range: 10-24 quarts: 12-21
+Andrew Luck2012 avg: 17 sd: 7 var: 50 games: 15 range: 10-24 quarts: 13-22
+Tony Romo2012 avg: 17 sd: 7 var: 51 games: 15 range: 10-24 quarts: 13-22
+Drew Brees2012 avg: 21 sd: 7 var: 51 games: 15 range: 13-28 quarts: 16-28
+Eli Manning2012 avg: 13 sd: 7 var: 55 games: 15 range: 6-21 quarts: 8-19
+Matt Ryan2012 avg: 19 sd: 7 var: 63 games: 15 range: 11-27 quarts: 14-24
+Matt Schaub2012 avg: 14 sd: 8 var: 69 games: 15 range: 6-22 quarts: 7-17
+Aaron Rodgers2012 avg: 21 sd: 8 var: 73 games: 15 range: 12-29 quarts: 14-25
+-------------------------------------------------
+avg RB variance: 48
+avg RB score: 11
+Bernard Pierce2012 avg: 3 sd: 3 var: 10 games: 14 range: 0-7 quarts: 1-4
+LeSean McCoy2012 avg: 12 sd: 3 var: 10 games: 11 range: 9-15 quarts: 10-13
+DeMarco Murray2012 avg: 11 sd: 3 var: 13 games: 9 range: 8-15 quarts: 8-14
+Ryan Mathews2012 avg: 8 sd: 4 var: 17 games: 12 range: 4-12 quarts: 6-8
+Pierre Thomas2012 avg: 6 sd: 4 var: 17 games: 15 range: 2-10 quarts: 3-8
+Mark Ingram2012 avg: 6 sd: 5 var: 26 games: 15 range: 1-11 quarts: 1-10
+Darren McFadden2012 avg: 9 sd: 5 var: 27 games: 11 range: 4-15 quarts: 4-13
+Alfred Morris2012 avg: 14 sd: 5 var: 28 games: 15 range: 8-19 quarts: 9-17
+Frank Gore2012 avg: 12 sd: 5 var: 29 games: 15 range: 7-18 quarts: 7-17
+Bilal Powell2012 avg: 6 sd: 5 var: 32 games: 13 range: 0-11 quarts: 1-6
+Matt Forte2012 avg: 11 sd: 5 var: 33 games: 14 range: 5-17 quarts: 7-16
+Arian Foster2012 avg: 17 sd: 6 var: 40 games: 15 range: 10-23 quarts: 15-21
+DeAngelo Williams2012 avg: 6 sd: 6 var: 41 games: 15 range: 0-13 quarts: 1-11
+Stevan Ridley2012 avg: 12 sd: 7 var: 51 games: 15 range: 5-19 quarts: 7-18
+C.J. Spiller2012 avg: 13 sd: 7 var: 55 games: 15 range: 6-20 quarts: 10-17
+Fred Jackson2012 avg: 8 sd: 7 var: 57 games: 10 range: 0-16 quarts: 2-12
+Ahmad Bradshaw2012 avg: 10 sd: 7 var: 57 games: 13 range: 3-18 quarts: 4-16
+Justin Forsett2012 avg: 4 sd: 7 var: 58 games: 14 range: -3-12 quarts: 0-5
+Marshawn Lynch2012 avg: 16 sd: 7 var: 62 games: 15 range: 8-24 quarts: 9-21
+Adrian Peterson2012 avg: 18 sd: 8 var: 73 games: 15 range: 10-27 quarts: 11-26
+Chris Johnson2012 avg: 9 sd: 8 var: 77 games: 16 range: 0-18 quarts: 2-12
+Reggie Bush2012 avg: 11 sd: 9 var: 84 games: 15 range: 2-20 quarts: 6-13
+Jamaal Charles2012 avg: 13 sd: 9 var: 96 games: 15 range: 3-23 quarts: 5-19
+Doug Martin2012 avg: 16 sd: 12 var: 161 games: 15 range: 4-29 quarts: 10-19
+-------------------------------------------------
+avg WR variance: 50
+avg WR score: 10
+Steve Smith2012 avg: 5 sd: 4 var: 20 games: 16 range: 1-10 quarts: 1-10
+Steve Johnson2012 avg: 8 sd: 4 var: 21 games: 15 range: 4-13 quarts: 5-12
+Lance Moore2012 avg: 9 sd: 5 var: 28 games: 14 range: 4-14 quarts: 6-12
+Wes Welker2012 avg: 10 sd: 5 var: 30 games: 15 range: 4-15 quarts: 6-15
+Anquan Boldin2012 avg: 8 sd: 5 var: 33 games: 15 range: 2-13 quarts: 4-11
+Cecil Shorts2012 avg: 10 sd: 5 var: 34 games: 14 range: 4-16 quarts: 5-15
+Randall Cobb2012 avg: 10 sd: 6 var: 36 games: 15 range: 4-16 quarts: 6-14
+Demaryius Thomas2012 avg: 12 sd: 6 var: 39 games: 15 range: 6-18 quarts: 8-17
+A.J. Green2012 avg: 14 sd: 6 var: 40 games: 15 range: 7-20 quarts: 9-16
+Eric Decker2012 avg: 11 sd: 6 var: 47 games: 15 range: 4-18 quarts: 5-17
+Michael Crabtree2012 avg: 9 sd: 7 var: 49 games: 15 range: 2-16 quarts: 3-12
+Jeremy Maclin2012 avg: 8 sd: 7 var: 49 games: 14 range: 1-15 quarts: 3-16
+T.Y. Hilton2012 avg: 8 sd: 7 var: 49 games: 14 range: 1-15 quarts: 3-13
+Calvin Johnson2012 avg: 14 sd: 7 var: 50 games: 15 range: 7-21 quarts: 10-20
+Vincent Jackson2012 avg: 12 sd: 7 var: 55 games: 15 range: 5-20 quarts: 5-18
+Brian Hartline2012 avg: 7 sd: 7 var: 55 games: 14 range: 0-15 quarts: 3-8
+Julio Jones2012 avg: 12 sd: 7 var: 56 games: 15 range: 4-20 quarts: 5-18
+Justin Blackmon2012 avg: 7 sd: 7 var: 60 games: 15 range: 0-14 quarts: 1-9
+Marques Colston2012 avg: 10 sd: 7 var: 62 games: 15 range: 2-18 quarts: 5-12
+Brandon Marshall2012 avg: 13 sd: 8 var: 67 games: 15 range: 5-21 quarts: 9-18
+Victor Cruz2012 avg: 11 sd: 8 var: 68 games: 15 range: 2-19 quarts: 3-18
+Andre Johnson2012 avg: 11 sd: 8 var: 73 games: 15 range: 3-20 quarts: 5-16
+Roddy White2012 avg: 11 sd: 8 var: 75 games: 15 range: 3-20 quarts: 5-15
+Dez Bryant2012 avg: 13 sd: 9 var: 98 games: 15 range: 3-23 quarts: 7-21
+avg TE variance: 32
+avg TE score: 8
+Brent Celek2012 avg: 4 sd: 3 var: 13 games: 14 range: 1-8 quarts: 3-6
+Jermaine Gresham2012 avg: 7 sd: 3 var: 13 games: 15 range: 3-10 quarts: 4-9
+Owen Daniels2012 avg: 7 sd: 4 var: 18 games: 14 range: 3-12 quarts: 4-12
+Jason Witten2012 avg: 7 sd: 4 var: 23 games: 15 range: 2-12 quarts: 4-9
+Martellus Bennett2012 avg: 6 sd: 5 var: 25 games: 15 range: 1-11 quarts: 2-10
+Heath Miller2012 avg: 9 sd: 5 var: 26 games: 15 range: 3-14 quarts: 4-12
+Scott Chandler2012 avg: 6 sd: 5 var: 29 games: 15 range: 1-11 quarts: 2-9
+Brandon Myers2012 avg: 6 sd: 5 var: 34 games: 15 range: 1-12 quarts: 2-7
+Greg Olsen2012 avg: 7 sd: 5 var: 35 games: 15 range: 1-13 quarts: 3-10
+Jimmy Graham2012 avg: 10 sd: 6 var: 43 games: 14 range: 3-16 quarts: 6-13
+Dennis Pitta2012 avg: 7 sd: 6 var: 47 games: 15 range: 0-14 quarts: 2-11
+Rob Gronkowski2012 avg: 14 sd: 8 var: 79 games: 10 range: 5-23 quarts: 7-20
+2013
+avg QB variance: 45
+avg QB score: 17
+Joe Flacco2013 avg: 13 sd: 4 var: 16 games: 15 range: 9-17 quarts: 10-16
+Ryan Tannehill2013 avg: 15 sd: 4 var: 21 games: 15 range: 10-19 quarts: 13-17
+Matt Ryan2013 avg: 15 sd: 4 var: 24 games: 15 range: 10-20 quarts: 12-19
+Carson Palmer2013 avg: 13 sd: 5 var: 34 games: 15 range: 7-18 quarts: 10-16
+Ben Roethlisberger2013 avg: 16 sd: 6 var: 37 games: 15 range: 10-22 quarts: 11-19
+Philip Rivers2013 avg: 17 sd: 6 var: 39 games: 15 range: 11-24 quarts: 13-21
+Tony Romo2013 avg: 17 sd: 6 var: 46 games: 15 range: 10-24 quarts: 13-19
+Matthew Stafford2013 avg: 17 sd: 7 var: 49 games: 15 range: 10-24 quarts: 15-22
+Tom Brady2013 avg: 16 sd: 7 var: 50 games: 15 range: 8-23 quarts: 11-20
+Drew Brees2013 avg: 21 sd: 8 var: 65 games: 15 range: 13-29 quarts: 15-30
+Andy Dalton2013 avg: 17 sd: 8 var: 77 games: 15 range: 9-26 quarts: 11-26
+Peyton Manning2013 avg: 25 sd: 9 var: 83 games: 15 range: 16-34 quarts: 18-31
+-------------------------------------------------
+avg RB variance: 50
+avg RB score: 12
+Bilal Powell2013 avg: 6 sd: 4 var: 16 games: 15 range: 2-10 quarts: 3-7
+Alfred Morris2013 avg: 11 sd: 4 var: 19 games: 15 range: 6-15 quarts: 8-14
+Lamar Miller2013 avg: 6 sd: 4 var: 20 games: 15 range: 1-10 quarts: 2-9
+DeAngelo Williams2013 avg: 9 sd: 5 var: 26 games: 14 range: 4-14 quarts: 6-11
+Le'Veon Bell2013 avg: 13 sd: 5 var: 26 games: 12 range: 8-18 quarts: 9-17
+Ryan Mathews2013 avg: 11 sd: 5 var: 34 games: 15 range: 5-17 quarts: 7-16
+LeGarrette Blount2013 avg: 6 sd: 5 var: 34 games: 15 range: 0-12 quarts: 1-9
+Fred Jackson2013 avg: 11 sd: 5 var: 35 games: 15 range: 5-17 quarts: 7-15
+Frank Gore2013 avg: 12 sd: 6 var: 36 games: 15 range: 6-18 quarts: 9-16
+C.J. Spiller2013 avg: 7 sd: 6 var: 37 games: 14 range: 1-14 quarts: 3-12
+Chris Ivory2013 avg: 7 sd: 6 var: 38 games: 14 range: 1-13 quarts: 1-10
+Giovani Bernard2013 avg: 11 sd: 6 var: 42 games: 15 range: 4-17 quarts: 6-16
+Eddie Lacy2013 avg: 14 sd: 7 var: 49 games: 14 range: 7-21 quarts: 10-21
+Matt Forte2013 avg: 15 sd: 7 var: 52 games: 15 range: 8-22 quarts: 10-19
+Chris Johnson2013 avg: 12 sd: 7 var: 52 games: 15 range: 5-19 quarts: 7-16
+Zac Stacy2013 avg: 13 sd: 7 var: 58 games: 12 range: 5-21 quarts: 8-16
+DeMarco Murray2013 avg: 16 sd: 7 var: 60 games: 13 range: 8-23 quarts: 11-22
+Reggie Bush2013 avg: 13 sd: 7 var: 60 games: 13 range: 5-21 quarts: 6-20
+Stevan Ridley2013 avg: 8 sd: 7 var: 61 games: 13 range: 1-16 quarts: 3-12
+LeSean McCoy2013 avg: 17 sd: 8 var: 73 games: 15 range: 9-26 quarts: 11-24
+Rashad Jennings2013 avg: 10 sd: 8 var: 73 games: 14 range: 1-18 quarts: 2-16
+Adrian Peterson2013 avg: 15 sd: 9 var: 84 games: 14 range: 6-24 quarts: 6-21
+Marshawn Lynch2013 avg: 15 sd: 9 var: 87 games: 15 range: 6-25 quarts: 7-21
+Jamaal Charles2013 avg: 21 sd: 11 var: 125 games: 15 range: 10-33 quarts: 17-25
+-------------------------------------------------
+avg WR variance: 64
+avg WR score: 11
+Kendall Wright2013 avg: 7 sd: 4 var: 19 games: 15 range: 3-12 quarts: 6-8
+Brian Hartline2013 avg: 8 sd: 4 var: 23 games: 15 range: 3-13 quarts: 5-9
+Torrey Smith2013 avg: 9 sd: 5 var: 28 games: 15 range: 3-14 quarts: 6-10
+Michael Floyd2013 avg: 8 sd: 6 var: 36 games: 15 range: 2-14 quarts: 4-10
+Harry Douglas2013 avg: 7 sd: 6 var: 40 games: 15 range: 1-13 quarts: 3-8
+Keenan Allen2013 avg: 10 sd: 6 var: 43 games: 14 range: 3-17 quarts: 5-17
+Pierre Garcon2013 avg: 10 sd: 6 var: 44 games: 15 range: 4-17 quarts: 5-18
+Jordy Nelson2013 avg: 11 sd: 6 var: 45 games: 15 range: 4-18 quarts: 6-15
+Brandon Marshall2013 avg: 13 sd: 6 var: 47 games: 15 range: 6-20 quarts: 7-18
+Julian Edelman2013 avg: 9 sd: 7 var: 55 games: 15 range: 2-16 quarts: 4-12
+Dez Bryant2013 avg: 13 sd: 7 var: 55 games: 15 range: 5-20 quarts: 7-21
+Anquan Boldin2013 avg: 9 sd: 7 var: 59 games: 15 range: 1-17 quarts: 3-13
+Antonio Brown2013 avg: 12 sd: 7 var: 60 games: 15 range: 5-20 quarts: 7-14
+A.J. Green2013 avg: 13 sd: 7 var: 63 games: 15 range: 5-21 quarts: 7-19
+Demaryius Thomas2013 avg: 14 sd: 8 var: 66 games: 15 range: 6-22 quarts: 8-17
+Vincent Jackson2013 avg: 11 sd: 8 var: 68 games: 15 range: 2-19 quarts: 4-14
+DeSean Jackson2013 avg: 12 sd: 8 var: 70 games: 15 range: 4-21 quarts: 5-20
+Victor Cruz2013 avg: 8 sd: 8 var: 73 games: 14 range: 0-17 quarts: 3-10
+T.Y. Hilton2013 avg: 8 sd: 9 var: 86 games: 15 range: 0-17 quarts: 3-10
+Alshon Jeffery2013 avg: 12 sd: 9 var: 92 games: 15 range: 3-22 quarts: 4-14
+Andre Johnson2013 avg: 11 sd: 9 var: 96 games: 15 range: 1-21 quarts: 5-13
+Josh Gordon2013 avg: 17 sd: 10 var: 105 games: 13 range: 7-27 quarts: 11-23
+Calvin Johnson2013 avg: 16 sd: 11 var: 123 games: 14 range: 5-27 quarts: 6-24
+Eric Decker2013 avg: 12 sd: 11 var: 134 games: 15 range: 1-24 quarts: 4-19
+avg TE variance: 39
+avg TE score: 8
+Scott Chandler2013 avg: 4 sd: 3 var: 13 games: 15 range: 1-8 quarts: 2-5
+Greg Olsen2013 avg: 7 sd: 4 var: 16 games: 15 range: 3-11 quarts: 4-9
+Antonio Gates2013 avg: 6 sd: 5 var: 25 games: 15 range: 1-11 quarts: 2-8
+Coby Fleener2013 avg: 5 sd: 5 var: 26 games: 15 range: 0-10 quarts: 1-10
+Martellus Bennett2013 avg: 7 sd: 5 var: 26 games: 15 range: 2-12 quarts: 3-8
+Charles Clay2013 avg: 7 sd: 5 var: 28 games: 15 range: 2-12 quarts: 3-11
+Jared Cook2013 avg: 6 sd: 6 var: 41 games: 15 range: 0-12 quarts: 2-4
+Julius Thomas2013 avg: 12 sd: 6 var: 46 games: 13 range: 5-19 quarts: 9-14
+Jason Witten2013 avg: 8 sd: 6 var: 48 games: 15 range: 1-15 quarts: 2-15
+Jordan Cameron2013 avg: 9 sd: 7 var: 59 games: 14 range: 1-17 quarts: 3-15
+Vernon Davis2013 avg: 11 sd: 8 var: 72 games: 14 range: 3-20 quarts: 6-15
+Jimmy Graham2013 avg: 14 sd: 8 var: 72 games: 15 range: 6-23 quarts: 8-21
+2014
+avg QB variance: 58
+avg QB score: 18
+Drew Brees2014 avg: 19 sd: 5 var: 31 games: 15 range: 14-25 quarts: 15-23
+Matt Ryan2014 avg: 18 sd: 6 var: 38 games: 15 range: 12-24 quarts: 14-20
+Ryan Tannehill2014 avg: 17 sd: 6 var: 42 games: 15 range: 11-24 quarts: 13-22
+Joe Flacco2014 avg: 16 sd: 7 var: 53 games: 15 range: 8-23 quarts: 10-21
+Peyton Manning2014 avg: 20 sd: 7 var: 55 games: 15 range: 12-27 quarts: 14-24
+Matthew Stafford2014 avg: 15 sd: 7 var: 57 games: 15 range: 7-22 quarts: 10-20
+Eli Manning2014 avg: 16 sd: 8 var: 64 games: 15 range: 8-24 quarts: 10-22
+Tom Brady2014 avg: 18 sd: 8 var: 64 games: 15 range: 10-26 quarts: 11-21
+Philip Rivers2014 avg: 17 sd: 8 var: 64 games: 15 range: 9-25 quarts: 12-24
+Andrew Luck2014 avg: 22 sd: 8 var: 66 games: 15 range: 14-30 quarts: 19-28
+Aaron Rodgers2014 avg: 21 sd: 8 var: 67 games: 15 range: 13-30 quarts: 16-27
+Ben Roethlisberger2014 avg: 18 sd: 9 var: 95 games: 15 range: 9-28 quarts: 12-22
+-------------------------------------------------
+avg RB variance: 57
+avg RB score: 12
+Chris Johnson2014 avg: 6 sd: 4 var: 20 games: 15 range: 1-10 quarts: 2-9
+Lamar Miller2014 avg: 11 sd: 5 var: 29 games: 15 range: 6-16 quarts: 7-14
+Terrance West2014 avg: 6 sd: 5 var: 29 games: 13 range: 1-12 quarts: 2-11
+DeMarco Murray2014 avg: 19 sd: 5 var: 30 games: 15 range: 13-24 quarts: 15-21
+Chris Ivory2014 avg: 8 sd: 5 var: 30 games: 15 range: 3-14 quarts: 4-10
+LeSean McCoy2014 avg: 10 sd: 5 var: 33 games: 15 range: 4-16 quarts: 6-15
+Andre Williams2014 avg: 8 sd: 5 var: 35 games: 15 range: 2-14 quarts: 2-11
+Jonathan Stewart2014 avg: 9 sd: 5 var: 35 games: 12 range: 3-15 quarts: 4-12
+Giovani Bernard2014 avg: 11 sd: 7 var: 49 games: 12 range: 4-18 quarts: 6-16
+Alfred Morris2014 avg: 11 sd: 7 var: 49 games: 15 range: 4-18 quarts: 5-15
+Andre Ellington2014 avg: 11 sd: 7 var: 49 games: 12 range: 4-18 quarts: 6-14
+Frank Gore2014 avg: 9 sd: 7 var: 50 games: 15 range: 2-16 quarts: 3-12
+Joique Bell2014 avg: 11 sd: 7 var: 50 games: 14 range: 4-18 quarts: 6-15
+Mark Ingram2014 avg: 13 sd: 7 var: 52 games: 12 range: 6-20 quarts: 8-18
+Justin Forsett2014 avg: 13 sd: 7 var: 57 games: 15 range: 5-20 quarts: 7-16
+Matt Forte2014 avg: 16 sd: 7 var: 58 games: 15 range: 8-23 quarts: 9-22
+Eddie Lacy2014 avg: 15 sd: 8 var: 68 games: 15 range: 7-23 quarts: 8-21
+Arian Foster2014 avg: 19 sd: 8 var: 77 games: 12 range: 11-28 quarts: 15-23
+Jeremy Hill2014 avg: 12 sd: 8 var: 78 games: 15 range: 3-20 quarts: 5-16
+Tre Mason2014 avg: 10 sd: 9 var: 89 games: 11 range: 1-20 quarts: 5-13
+Jamaal Charles2014 avg: 15 sd: 9 var: 93 games: 14 range: 6-25 quarts: 6-23
+Le'Veon Bell2014 avg: 19 sd: 10 var: 102 games: 15 range: 9-29 quarts: 11-26
+Marshawn Lynch2014 avg: 17 sd: 10 var: 106 games: 15 range: 7-28 quarts: 9-25
+C.J. Anderson2014 avg: 11 sd: 10 var: 111 games: 13 range: 1-22 quarts: 2-23
+-------------------------------------------------
+avg WR variance: 57
+avg WR score: 11
+Vincent Jackson2014 avg: 7 sd: 3 var: 15 games: 15 range: 3-11 quarts: 4-9
+Eric Decker2014 avg: 7 sd: 4 var: 17 games: 14 range: 3-11 quarts: 2-11
+Alshon Jeffery2014 avg: 12 sd: 5 var: 29 games: 15 range: 6-17 quarts: 8-15
+Randall Cobb2014 avg: 12 sd: 5 var: 33 games: 15 range: 7-18 quarts: 9-15
+Julian Edelman2014 avg: 9 sd: 5 var: 34 games: 14 range: 3-15 quarts: 4-14
+Anquan Boldin2014 avg: 8 sd: 5 var: 34 games: 15 range: 2-14 quarts: 4-13
+Kelvin Benjamin2014 avg: 10 sd: 5 var: 35 games: 15 range: 4-16 quarts: 5-15
+Golden Tate2014 avg: 10 sd: 6 var: 36 games: 15 range: 4-16 quarts: 5-11
+Antonio Brown2014 avg: 16 sd: 7 var: 49 games: 15 range: 9-23 quarts: 11-22
+Emmanuel Sanders2014 avg: 13 sd: 7 var: 54 games: 15 range: 5-20 quarts: 8-16
+DeSean Jackson2014 avg: 10 sd: 7 var: 55 games: 14 range: 2-17 quarts: 3-17
+Steve Smith2014 avg: 9 sd: 7 var: 60 games: 15 range: 1-16 quarts: 3-14
+Dez Bryant2014 avg: 14 sd: 7 var: 62 games: 15 range: 6-22 quarts: 8-16
+Sammy Watkins2014 avg: 8 sd: 7 var: 62 games: 15 range: 0-16 quarts: 2-12
+A.J. Green2014 avg: 12 sd: 8 var: 66 games: 11 range: 4-20 quarts: 7-16
+T.Y. Hilton2014 avg: 13 sd: 8 var: 68 games: 14 range: 4-21 quarts: 6-19
+DeAndre Hopkins2014 avg: 10 sd: 8 var: 72 games: 15 range: 2-19 quarts: 5-12
+Jordy Nelson2014 avg: 15 sd: 8 var: 74 games: 15 range: 6-24 quarts: 7-21
+Jeremy Maclin2014 avg: 13 sd: 8 var: 77 games: 15 range: 4-22 quarts: 6-16
+Julio Jones2014 avg: 13 sd: 8 var: 78 games: 14 range: 4-22 quarts: 7-15
+Mike Evans2014 avg: 12 sd: 8 var: 80 games: 14 range: 3-21 quarts: 4-17
+Odell Beckham2014 avg: 17 sd: 9 var: 84 games: 11 range: 8-26 quarts: 10-24
+Calvin Johnson2014 avg: 12 sd: 9 var: 97 games: 12 range: 2-22 quarts: 5-19
+Demaryius Thomas2014 avg: 15 sd: 10 var: 100 games: 15 range: 5-25 quarts: 10-19
+avg TE variance: 36
+avg TE score: 8
+Travis Kelce2014 avg: 7 sd: 4 var: 18 games: 15 range: 2-11 quarts: 3-9
+Jason Witten2014 avg: 6 sd: 4 var: 18 games: 15 range: 2-11 quarts: 2-9
+Zach Ertz2014 avg: 5 sd: 4 var: 20 games: 15 range: 1-10 quarts: 2-9
+Heath Miller2014 avg: 6 sd: 4 var: 23 games: 15 range: 1-10 quarts: 2-7
+Jared Cook2014 avg: 5 sd: 5 var: 28 games: 15 range: 0-10 quarts: 2-6
+Greg Olsen2014 avg: 9 sd: 5 var: 31 games: 15 range: 3-14 quarts: 4-13
+Delanie Walker2014 avg: 8 sd: 5 var: 33 games: 14 range: 2-13 quarts: 3-10
+Martellus Bennett2014 avg: 8 sd: 5 var: 35 games: 15 range: 2-14 quarts: 3-13
+Coby Fleener2014 avg: 7 sd: 6 var: 46 games: 15 range: 0-14 quarts: 2-10
+Rob Gronkowski2014 avg: 13 sd: 7 var: 52 games: 15 range: 5-20 quarts: 9-16
+Jimmy Graham2014 avg: 10 sd: 7 var: 55 games: 14 range: 3-18 quarts: 4-14
+Antonio Gates2014 avg: 10 sd: 8 var: 76 games: 15 range: 1-19 quarts: 3-16
+2015
+avg QB variance: 57
+avg QB score: 18
+Carson Palmer2015 avg: 20 sd: 3 var: 13 games: 13 range: 17-24 quarts: 18-22
+Matt Ryan2015 avg: 14 sd: 5 var: 26 games: 13 range: 9-19 quarts: 9-18
+Tom Brady2015 avg: 23 sd: 5 var: 32 games: 13 range: 18-29 quarts: 18-28
+Blake Bortles2015 avg: 20 sd: 6 var: 43 games: 13 range: 13-26 quarts: 16-22
+Derek Carr2015 avg: 17 sd: 7 var: 60 games: 13 range: 9-25 quarts: 13-23
+Philip Rivers2015 avg: 17 sd: 7 var: 61 games: 13 range: 9-25 quarts: 9-24
+Andy Dalton2015 avg: 19 sd: 8 var: 64 games: 13 range: 10-27 quarts: 18-22
+Kirk Cousins2015 avg: 16 sd: 8 var: 66 games: 13 range: 7-24 quarts: 8-22
+Russell Wilson2015 avg: 20 sd: 8 var: 67 games: 13 range: 12-28 quarts: 15-25
+Matthew Stafford2015 avg: 17 sd: 8 var: 75 games: 13 range: 8-25 quarts: 9-19
+Eli Manning2015 avg: 16 sd: 8 var: 75 games: 13 range: 8-25 quarts: 9-19
+Drew Brees2015 avg: 19 sd: 10 var: 105 games: 12 range: 9-29 quarts: 12-22
+-------------------------------------------------
+avg RB variance: 57
+avg RB score: 11
+Melvin Gordon2015 avg: 5 sd: 2 var: 4 games: 13 range: 3-7 quarts: 4-6
+Giovani Bernard2015 avg: 9 sd: 3 var: 13 games: 13 range: 5-12 quarts: 6-13
+LeSean McCoy2015 avg: 13 sd: 3 var: 14 games: 11 range: 9-17 quarts: 10-16
+Mark Ingram2015 avg: 13 sd: 4 var: 17 games: 12 range: 8-17 quarts: 9-15
+T.J. Yeldon2015 avg: 10 sd: 4 var: 24 games: 12 range: 5-15 quarts: 6-11
+Darren McFadden2015 avg: 9 sd: 5 var: 27 games: 13 range: 4-14 quarts: 5-11
+Latavius Murray2015 avg: 10 sd: 5 var: 29 games: 13 range: 5-15 quarts: 7-15
+Jonathan Stewart2015 avg: 11 sd: 5 var: 30 games: 13 range: 6-17 quarts: 6-16
+Matt Forte2015 avg: 13 sd: 5 var: 31 games: 10 range: 7-18 quarts: 8-17
+Ronnie Hillman2015 avg: 8 sd: 5 var: 31 games: 13 range: 3-14 quarts: 4-12
+Justin Forsett2015 avg: 9 sd: 6 var: 36 games: 10 range: 3-15 quarts: 5-11
+Frank Gore2015 avg: 9 sd: 6 var: 37 games: 13 range: 3-16 quarts: 5-16
+Eddie Lacy2015 avg: 8 sd: 7 var: 54 games: 12 range: 1-16 quarts: 1-12
+Chris Johnson2015 avg: 9 sd: 7 var: 57 games: 11 range: 1-17 quarts: 5-9
+Chris Ivory2015 avg: 13 sd: 7 var: 61 games: 12 range: 5-21 quarts: 5-20
+Jeremy Hill2015 avg: 9 sd: 8 var: 64 games: 13 range: 1-17 quarts: 2-16
+Adrian Peterson2015 avg: 15 sd: 9 var: 82 games: 13 range: 6-24 quarts: 10-21
+Doug Martin2015 avg: 13 sd: 9 var: 83 games: 13 range: 4-22 quarts: 7-17
+Todd Gurley2015 avg: 15 sd: 9 var: 85 games: 11 range: 5-24 quarts: 7-19
+LeGarrette Blount2015 avg: 10 sd: 9 var: 88 games: 12 range: 0-19 quarts: 4-16
+Lamar Miller2015 avg: 13 sd: 10 var: 106 games: 13 range: 2-23 quarts: 5-18
+Thomas Rawls2015 avg: 10 sd: 11 var: 129 games: 12 range: -1-21 quarts: 1-15
+DeAngelo Williams2015 avg: 12 sd: 11 var: 135 games: 13 range: 0-23 quarts: 1-18
+Devonta Freeman2015 avg: 17 sd: 11 var: 143 games: 12 range: 5-29 quarts: 8-27
+-------------------------------------------------
+avg WR variance: 52
+avg WR score: 10
+Brandon Marshall2015 avg: 0 sd: 1 var: 2 games: 14 range: -1-2 quarts: 0-0
+Eric Decker2015 avg: 12 sd: 2 var: 6 games: 12 range: 9-14 quarts: 10-14
+Demaryius Thomas2015 avg: 9 sd: 3 var: 15 games: 13 range: 5-13 quarts: 6-12
+John Brown2015 avg: 10 sd: 4 var: 22 games: 12 range: 5-15 quarts: 8-13
+Willie Snead2015 avg: 8 sd: 5 var: 26 games: 12 range: 2-13 quarts: 4-10
+Allen Hurns2015 avg: 11 sd: 5 var: 35 games: 12 range: 5-17 quarts: 6-17
+Amari Cooper2015 avg: 9 sd: 6 var: 37 games: 13 range: 2-15 quarts: 4-11
+Mike Evans2015 avg: 9 sd: 6 var: 38 games: 12 range: 2-15 quarts: 4-13
+Alshon Jeffery2015 avg: 12 sd: 6 var: 38 games: 8 range: 6-18 quarts: 8-17
+Jarvis Landry2015 avg: 10 sd: 6 var: 42 games: 13 range: 3-16 quarts: 6-12
+Travis Benjamin2015 avg: 9 sd: 6 var: 48 games: 13 range: 2-16 quarts: 2-11
+Emmanuel Sanders2015 avg: 8 sd: 7 var: 49 games: 12 range: 1-15 quarts: 2-12
+Jeremy Maclin2015 avg: 10 sd: 7 var: 54 games: 12 range: 3-17 quarts: 5-16
+Brandin Cooks2015 avg: 10 sd: 7 var: 56 games: 13 range: 2-18 quarts: 4-17
+T.Y. Hilton2015 avg: 10 sd: 7 var: 61 games: 13 range: 2-18 quarts: 4-13
+Calvin Johnson2015 avg: 11 sd: 7 var: 62 games: 13 range: 3-19 quarts: 6-15
+DeAndre Hopkins2015 avg: 14 sd: 7 var: 63 games: 13 range: 6-22 quarts: 5-17
+Julio Jones2015 avg: 14 sd: 7 var: 63 games: 13 range: 6-22 quarts: 8-16
+Larry Fitzgerald2015 avg: 11 sd: 8 var: 68 games: 13 range: 3-20 quarts: 6-13
+Allen Robinson2015 avg: 14 sd: 9 var: 82 games: 13 range: 5-23 quarts: 8-16
+Odell Beckham2015 avg: 14 sd: 9 var: 83 games: 13 range: 5-23 quarts: 4-21
+A.J. Green2015 avg: 13 sd: 9 var: 83 games: 13 range: 4-22 quarts: 6-19
+Antonio Brown2015 avg: 14 sd: 9 var: 90 games: 13 range: 5-24 quarts: 5-25
+Doug Baldwin2015 avg: 12 sd: 10 var: 118 games: 13 range: 1-23 quarts: 3-20
+avg TE variance: 36
+avg TE score: 8
+Jacob Tamme2015 avg: 5 sd: 4 var: 19 games: 12 range: 0-9 quarts: 2-7
+Jason Witten2015 avg: 5 sd: 4 var: 20 games: 13 range: 0-10 quarts: 3-5
+Jimmy Graham2015 avg: 6 sd: 4 var: 22 games: 11 range: 2-11 quarts: 3-9
+Charles Clay2015 avg: 5 sd: 4 var: 23 games: 13 range: 0-10 quarts: 1-8
+Delanie Walker2015 avg: 9 sd: 5 var: 28 games: 12 range: 4-14 quarts: 6-11
+Gary Barnidge2015 avg: 11 sd: 5 var: 34 games: 13 range: 5-17 quarts: 5-15
+Travis Kelce2015 avg: 7 sd: 6 var: 36 games: 13 range: 1-13 quarts: 3-8
+Jordan Reed2015 avg: 10 sd: 6 var: 39 games: 11 range: 4-16 quarts: 5-15
+Benjamin Watson2015 avg: 7 sd: 6 var: 40 games: 13 range: 1-13 quarts: 2-10
+Greg Olsen2015 avg: 10 sd: 6 var: 48 games: 13 range: 3-17 quarts: 6-13
+Rob Gronkowski2015 avg: 14 sd: 7 var: 50 games: 12 range: 7-21 quarts: 9-18
+Tyler Eifert2015 avg: 11 sd: 8 var: 73 games: 12 range: 3-20 quarts: 4-17
