@@ -33,11 +33,11 @@ def get_scores(name, year):
 
 db = nfldb.connect()
 
-parser = argparse.ArgumentParser(description='Process some integers.')
-parser.add_argument('--player', metavar='p', type=str,
-                   help='sum the integers (default: find the max)')
-parser.add_argument('--year', metavar='p', type=int,
-                   help='sum the integers (default: find the max)')
+parser = argparse.ArgumentParser(description='Classify a player as "Boom or Bust" or "Consistent".')
+parser.add_argument('--player', metavar='player', type=str,
+                   help='The player to be analyzed')
+parser.add_argument('--year', metavar='year', type=int,
+                   help='The year to gather data from')
 
 args = parser.parse_args()
 
